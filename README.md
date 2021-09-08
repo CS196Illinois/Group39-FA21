@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
+# Group 39
 Group Name: TEAM_NAME
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1JmxLzq6fp_W4mEhpaA28Goda81zI0SUxc7OXkLD8PYs/edit?usp=sharing)
 
-Team Members: STUDENTS_NETIDS
+Team Members: stangri2, ruruma2, flin24, njoseph4, yse2
 
-Project Manager: PM_NETID
+Project Manager: pkn3
